@@ -1,0 +1,33 @@
+#########Custom created blocklist mainly stupid google trackers
+
+
+0.0.0.0 beacons.gcp.gvt1.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 rr1---sn-cu-aigss.googlevideo.com
+0.0.0.0 rr2---sn-cu-aigss.googlevideo.com
+0.0.0.0 rr3---sn-cu-aigss.googlevideo.com
+0.0.0.0 rr4---sn-cu-aigsl.googlevideo.com
+0.0.0.0 rr5---sn-cu-aigsl.googlevideo.com
+0.0.0.0 ep1.adtrafficquality.google
+0.0.0.0 ep2.adtrafficquality.google
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 waa-pa.clients6.google.com
+0.0.0.0 ogads-pa.clients6.google.com
+0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 region1.analytics.google.com
+0.0.0.0 region2.analytics.google.com
+0.0.0.0	region3.analytics.google.com
+0.0.0.0	region4.analytics.google.com
+0.0.0.0	region5.analytics.google.com
+0.0.0.0	www.googletagmanager.com
+0.0.0.0 content-autofill.googleapis.com
+0.0.0.0	clients1.google.com
+0.0.0.0	clients2.google.com
+0.0.0.0	clients3.google.com
+0.0.0.0	clients4.google.com
+0.0.0.0	clients5.google.com
+0.0.0.0 bec8c98f66acaad16fb9f4f7c446ac2b.safeframe.googlesyndication.com
+0.0.0.0 locationhistory-pa.googleapis.com
+
